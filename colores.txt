@@ -2,3 +2,5 @@ verde
 negro 
 blanco 
 azul
+gris 
+blanco hueso
